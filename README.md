@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm <i>Julio Cesar Matos</i>
+- I'm a BSEE Student at University of São Carlos
+- and Intern of DevOps at Monitora Tec
+
+📫 How to reach me:
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jcdematos/)
+
 <!--
 **jcdematos/jcdematos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
