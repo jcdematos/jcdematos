@@ -12,7 +12,7 @@ I'm <i>Julio Cesar Matos</i>
 
 ## ⚡  About me:
 
-I'm a graduate student living in São Carlos, I'm passiaonate about technology and problem solving, in my free time a love to read and motorcycle ride.
+I'm a graduate student living in São Carlos, I'm passiaonate about technology and problem solving, in my free time I love to read and motorcycle ride.
 
 ## 📫 How to reach me:
 
