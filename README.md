@@ -2,7 +2,17 @@
 
 I'm <i>Julio Cesar Matos</i>
 - I'm a BSEE Student at University of São Carlos
-- and Intern of DevOps at Monitora Tec
+- and Intern of DevOps at Monitora Soluções Tecnológicas
+
+## Interest:
+- Power Systems
+- Machine Learning and AI
+- Software Engineering
+- Entrepreneurship
+
+## ⚡  About me:
+
+I'm a graduate student living in São Carlos, I'm passiaonate about technology and problem solving, in my free time a love to read and motorcycle ride.
 
 ## 📫 How to reach me:
 
