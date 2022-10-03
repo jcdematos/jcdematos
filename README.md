@@ -6,7 +6,7 @@ I'm a **DevSecOps Engineer** working in Brazil.
 
 - :hammer: Tools I use daily: `k8s`, `docker`, `jenkins`, `git`, `linux`
 - :computer: Programming languages I use daily: `.py`, `.bash`, `.go`, `.groovy` 
-- :seedling: Learning all about: **cyber security** amd **pen testing** 🖋️ 
+- :seedling: Learning all about: **cyber security** and **pen testing** 🖋️ 
 - :speech_balloon: Ask me about **web hacking**, **system programming**, **devops culture** and **free software**
 - ⚡ Fun fact: Learning matte painting 
 
